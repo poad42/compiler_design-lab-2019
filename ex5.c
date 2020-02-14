@@ -15,7 +15,7 @@ int main(){
     scanf("%s%c",a[i],&ch);
     do{
  		m=0;
- 		printf("Enter the elemets whose first & follow is to be found:");
+ 		printf("Enter the elements whose first & follow is to be found:");
  		scanf("%c",&c);
  		first(c);
  		printf("First(%c)={",c);
